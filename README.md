@@ -56,3 +56,5 @@ Different user groups need different levels of detail. Executives want high-leve
 4.	Integration Complexity: Connecting to existing systems (especially legacy call center software) may require custom development work or at least collaboration with our in-house developer(s).
 5.	Data Privacy: Ensuring customer data protection throughout the pipeline, especially with cross-border data flows, will require careful compliance planning.
 
+[Click here to view conceptual pipeline design](https://github.com/aceanalytics-ng/beejan_technologies_conceptual_data_pipeline/blob/main/Beejan%20Tech%20Conceptual%20Data%20Pipeline.drawio.pdf)
+
